@@ -1,4 +1,4 @@
-% Hull-white one-factor model calculating cap/floor
+# Hull-white one-factor model calculating cap/floor
 
 import matplotlib.pyplot as plt
 import numpy as np
